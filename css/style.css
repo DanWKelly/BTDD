@@ -88,6 +88,7 @@ textarea { overflow: auto; }
 #navigation ul li.last { background: transparent; }
 #navigation ul li a { color: #fff; text-shadow: rgba(0,0,0,0.6) 0px 1px 0px; }
 #navigation ul li a:hover { text-decoration: none; color: #f6c387; }
+#navigation ul li a.active{ text-decoration: none; font-weight: bold; color: #f6c387; }
 
 .slider-holder { width: 922px; height: 340px; padding: 60px 70px; overflow: hidden; position: relative; background: url(images/slider.png) no-repeat 0 0; position: absolute; top: 125px; left: -44px; z-index: 5;}
 .big-slider { width: 922px; height: 340px; overflow: visible; position: static; }
