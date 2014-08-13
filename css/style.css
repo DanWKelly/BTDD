@@ -143,6 +143,7 @@ html, body { height: 100%; }
 #footer .footer-nav ul { list-style: none; list-style-position: outside; font-size: 11px; }
 #footer .footer-nav ul li { float: left; border-right: 1px solid #cf8832; line-height: 11px; padding: 0 10px;  }
 #footer .footer-nav ul li a { color: #fbe0c0; }
+#footer .footer-nav ul li a.active { color: #fff; text-decoration: none;  }
 #footer .footer-nav ul li a:hover { color: #fff; text-decoration: none;  }
 #footer .footer-nav ul li.last { border-right: 0; padding-right: 0; }
 #footer p.copy { color: #fbe0c0; font-size: 11px; float: right; line-height: 11px; }
